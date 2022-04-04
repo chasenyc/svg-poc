@@ -1,0 +1,465 @@
+<svg id="MTC_Stage_I" data-name="MTC Stage I" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 518.1 320.4">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #eff3f8;
+            }
+
+            .cls-2 {
+                fill: #626179;
+            }
+
+            .cls-3 {
+                fill: #fff;
+                stroke: #aaa9b5;
+            }
+
+            .cls-3,
+            .cls-5 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-4 {
+                fill: none;
+            }
+
+            .cls-5 {
+                fill: transparent;
+                stroke: #fff;
+            }
+        </style>
+    </defs>
+    <g id="STAGE">
+        <path class="cls-1" d="M103,0H414.2a4,4,0,0,1,4,4V29.2a4,4,0,0,1-4,4H103a4,4,0,0,1-4-4V4A4,4,0,0,1,103,0Z" />
+    </g>
+    <g id="LABELS">
+        <path class="cls-2"
+            d="M244.7,18.3a1.23,1.23,0,0,0-.5-1,9.76,9.76,0,0,0-1.7-.8,8.8,8.8,0,0,1-1.9-.8,3.06,3.06,0,0,1-1.9-2.8,2.78,2.78,0,0,1,.5-1.6,2.49,2.49,0,0,1,1.5-1.1,7.84,7.84,0,0,1,2.2-.4,5.37,5.37,0,0,1,2.2.4,4.6,4.6,0,0,1,1.5,1.2,2.75,2.75,0,0,1,.5,1.8h-2.3a1.7,1.7,0,0,0-.5-1.2,2,2,0,0,0-1.4-.4,1.71,1.71,0,0,0-1.3.4,1.23,1.23,0,0,0-.5,1,1,1,0,0,0,.6.9,8.44,8.44,0,0,0,1.6.7,7.13,7.13,0,0,1,2.9,1.5,2.93,2.93,0,0,1,.9,2.2,2.71,2.71,0,0,1-1.1,2.3,4.45,4.45,0,0,1-3,.8,6,6,0,0,1-2.4-.5,3.58,3.58,0,0,1-1.6-1.3,3.32,3.32,0,0,1-.6-1.9h2.4c0,1.3.8,1.9,2.2,1.9a2.27,2.27,0,0,0,1.3-.3A1.16,1.16,0,0,0,244.7,18.3Z" />
+        <path class="cls-2"
+            d="M251.2,10.8v2.1h1.4v1.7h-1.4v4.1a1.42,1.42,0,0,0,.2.7,1,1,0,0,0,.7.2,1.66,1.66,0,0,0,.7-.1v1.7a6.06,6.06,0,0,1-1.4.2,2.12,2.12,0,0,1-2.4-1.8,2,2,0,0,1,0-.6V14.4h-1.2V12.7H249V10.6h2.2Z" />
+        <path class="cls-2"
+            d="M258.8,21.3a1.86,1.86,0,0,1-.2-.8,2.73,2.73,0,0,1-2.1.9,3.14,3.14,0,0,1-2.1-.7,2.53,2.53,0,0,1-.8-1.8,2.4,2.4,0,0,1,1-2.1,4.77,4.77,0,0,1,2.9-.7h1v-.5a1.19,1.19,0,0,0-.3-.9,1.27,1.27,0,0,0-.9-.4,1.19,1.19,0,0,0-.9.3,1,1,0,0,0-.3.8h-2.3a2.64,2.64,0,0,1,.5-1.4,3.45,3.45,0,0,1,1.3-1,5.92,5.92,0,0,1,1.9-.4,4,4,0,0,1,2.5.8,2.81,2.81,0,0,1,.9,2.2v3.7a4.27,4.27,0,0,0,.3,1.8v.1h-2.4Zm-1.9-1.6a3.09,3.09,0,0,0,.9-.2.9.9,0,0,0,.6-.6V17.4h-.8q-1.65,0-1.8,1.2v.1a.89.89,0,0,0,.3.7A1.12,1.12,0,0,0,256.9,19.7Z" />
+        <path class="cls-2"
+            d="M262.1,17a5.05,5.05,0,0,1,.9-3.1,2.9,2.9,0,0,1,2.5-1.2,2.7,2.7,0,0,1,2.2,1l.1-.8h2v8.2a3.83,3.83,0,0,1-.5,1.9,2.79,2.79,0,0,1-1.4,1.2,6.52,6.52,0,0,1-2.1.4,4,4,0,0,1-1.8-.4,2.69,2.69,0,0,1-1.3-1l1-1.4a2.68,2.68,0,0,0,2,.9,1.74,1.74,0,0,0,1.9-1.56,1.93,1.93,0,0,0,0-.34v-.5a2.59,2.59,0,0,1-2.1.9A3.16,3.16,0,0,1,263,20,4,4,0,0,1,262.1,17Zm2.3.2a3,3,0,0,0,.5,1.8,1.56,1.56,0,0,0,1.3.7,1.66,1.66,0,0,0,1.5-.8V15.3a1.66,1.66,0,0,0-1.5-.8,1.45,1.45,0,0,0-1.3.7A2.84,2.84,0,0,0,264.4,17.2Z" />
+        <path class="cls-2"
+            d="M275.5,21.4a4.42,4.42,0,0,1-3-1.1,4.06,4.06,0,0,1-1.2-3v-.2a5.91,5.91,0,0,1,.5-2.3,3,3,0,0,1,1.4-1.5,4.64,4.64,0,0,1,2.1-.5,3.4,3.4,0,0,1,2.7,1.1,4.75,4.75,0,0,1,1,3.1v.9h-5.4a1.86,1.86,0,0,0,.7,1.3,2.16,2.16,0,0,0,1.4.5,2.39,2.39,0,0,0,2-.9l1.1,1.2a2.59,2.59,0,0,1-1.4,1.1A5.81,5.81,0,0,1,275.5,21.4Zm-.3-6.9a1.63,1.63,0,0,0-1.1.5,1.75,1.75,0,0,0-.5,1.3h3.1v-.2a1.6,1.6,0,0,0-.4-1.2A1.24,1.24,0,0,0,275.2,14.5Z" />
+        <path class="cls-2"
+            d="M224.3,71.8l2.9,8.2,2.9-8.2h3.1V83.2h-2.4V80.1l.2-5.4-3.1,8.5h-1.6l-3.1-8.5.2,5.4v3.1h-2.3V71.8Z" />
+        <path class="cls-2"
+            d="M240,83.2a1.86,1.86,0,0,1-.2-.8,2.73,2.73,0,0,1-2.1.9,3.14,3.14,0,0,1-2.1-.7,2.53,2.53,0,0,1-.8-1.8,2.4,2.4,0,0,1,1-2.1,4.77,4.77,0,0,1,2.9-.7h1v-.5a1.19,1.19,0,0,0-.3-.9,1.27,1.27,0,0,0-.9-.4,1.19,1.19,0,0,0-.9.3,1,1,0,0,0-.3.8H235a2.64,2.64,0,0,1,.5-1.4,3.45,3.45,0,0,1,1.3-1,5.92,5.92,0,0,1,1.9-.4,4,4,0,0,1,2.5.8,2.81,2.81,0,0,1,.9,2.2v3.7a4.27,4.27,0,0,0,.3,1.8v.1H240Zm-1.9-1.6a3.09,3.09,0,0,0,.9-.2.9.9,0,0,0,.6-.6V79.3h-.8q-1.65,0-1.8,1.2v.1a.89.89,0,0,0,.3.7A1.12,1.12,0,0,0,238.1,81.6Z" />
+        <path class="cls-2"
+            d="M243.7,72.5a1.12,1.12,0,0,1,.3-.8,1.5,1.5,0,0,1,1.8,0,1.22,1.22,0,0,1,0,1.6,1.5,1.5,0,0,1-1.8,0C243.8,73.2,243.7,72.9,243.7,72.5Zm2.4,10.7h-2.3V74.7h2.3Z" />
+        <path class="cls-2"
+            d="M250,74.7l.1,1a2.78,2.78,0,0,1,2.4-1.1,2.48,2.48,0,0,1,2,.8,3.8,3.8,0,0,1,.7,2.4v5.5h-2.3V77.9a1.34,1.34,0,0,0-.3-1,1.5,1.5,0,0,0-1-.3,1.59,1.59,0,0,0-1.4.8v6h-2.3V74.7Z" />
+        <path class="cls-2" d="M267.9,78.5h-4.5v4.6H261V71.7h7.4v1.9h-5.1v2.9h4.5v2Z" />
+        <path class="cls-2" d="M272,83.2h-2.3v-12H272Z" />
+        <path class="cls-2"
+            d="M273.5,78.9a5.09,5.09,0,0,1,.5-2.2,3.39,3.39,0,0,1,1.4-1.5,4.64,4.64,0,0,1,2.1-.5,3.89,3.89,0,0,1,2.8,1,4.25,4.25,0,0,1,1.2,2.8v.6a4.51,4.51,0,0,1-1.1,3.1,4.1,4.1,0,0,1-5.8,0h0a4.61,4.61,0,0,1-1.1-3.2Zm2.3.1a3,3,0,0,0,.5,1.8,1.49,1.49,0,0,0,1.3.6,1.64,1.64,0,0,0,1.3-.6,3.44,3.44,0,0,0,.5-2,3,3,0,0,0-.5-1.8,1.71,1.71,0,0,0-2.41-.19l-.19.19A3.44,3.44,0,0,0,275.8,79Z" />
+        <path class="cls-2"
+            d="M282.6,78.9a5.09,5.09,0,0,1,.5-2.2,3.39,3.39,0,0,1,1.4-1.5,4.64,4.64,0,0,1,2.1-.5,3.89,3.89,0,0,1,2.8,1,4.25,4.25,0,0,1,1.2,2.8v.6a4.51,4.51,0,0,1-1.1,3.1,4.1,4.1,0,0,1-5.8,0h0a4.61,4.61,0,0,1-1.1-3.2Zm2.2.1a3,3,0,0,0,.5,1.8,1.49,1.49,0,0,0,1.3.6,1.64,1.64,0,0,0,1.3-.6,3.44,3.44,0,0,0,.5-2,3,3,0,0,0-.5-1.8,1.71,1.71,0,0,0-2.41-.19l-.19.19a3.44,3.44,0,0,0-.5,2Z" />
+        <path class="cls-2"
+            d="M296.7,76.9c-.3,0-.6-.1-.8-.1a1.67,1.67,0,0,0-1.7.9v5.5H292V74.7h2.1l.1,1a2.16,2.16,0,0,1,1.9-1.2,1.66,1.66,0,0,1,.7.1Z" />
+    </g>
+    <g id="ORCHESTRA">
+        <g id="BACKGROUND_MAIN_FLOOR" data-name="BACKGROUND MAIN FLOOR">
+            <path class="cls-1"
+                d="M180.4,290.1H36a3,3,0,0,1-3-3V192.7a2.73,2.73,0,0,1,.9-2.1L128,96.4a2.89,2.89,0,0,1,2.1-.9H387a2.73,2.73,0,0,1,2.1.9l94.2,94.2a2.89,2.89,0,0,1,.9,2.1V287a3,3,0,0,1-3,3H37.7" />
+        </g>
+        <g id="MAIN_FLOOR_RIGHT" data-name="MAIN FLOOR RIGHT">
+            <path class="cls-3"
+                d="M393.6,132.8H366.8a3,3,0,0,0-3,3V238.9a3,3,0,0,0,3,3h86.5a3,3,0,0,0,3-3v-46a3.12,3.12,0,0,0-.9-2.2l-59.7-57A2.89,2.89,0,0,0,393.6,132.8Z" />
+        </g>
+        <g id="MAIN_FLOOR_CENTER" data-name="MAIN FLOOR CENTER">
+            <path class="cls-3"
+                d="M178.7,241.9h12.1a2.73,2.73,0,0,1,2.1.9l21.8,21.8a2.89,2.89,0,0,0,2.1.9h83.6a2.73,2.73,0,0,0,2.1-.9l21.8-21.8a2.89,2.89,0,0,1,2.1-.9h12.1a3,3,0,0,0,3-3h0V135.8a3,3,0,0,0-3-3H178.7a3,3,0,0,0-3,3V238.9A3,3,0,0,0,178.7,241.9Z" />
+            <path class="cls-3"
+                d="M188.1,115.1h141a3,3,0,0,1,3,3v5.8a3,3,0,0,1-3,3h-141a3,3,0,0,1-3-3v-5.8A3,3,0,0,1,188.1,115.1Z" />
+        </g>
+        <g id="MAIN_FLOOR_LEFT" data-name="MAIN FLOOR LEFT">
+            <path class="cls-3"
+                d="M60.8,192.9v46a3,3,0,0,0,3,3h86.5a3,3,0,0,0,3-3V135.8a3,3,0,0,0-3-3H123.5a3.25,3.25,0,0,0-2.1.8L61.7,190.7A3.6,3.6,0,0,0,60.8,192.9Z" />
+        </g>
+    </g>
+    <g id="FAKE_SECTION:A:A:1" data-name="FAKE SECTION:A:A:1">
+        <g id="FAKEROWA">
+            <rect id="A:999" class="cls-4" width="10" height="10" />
+        </g>
+    </g>
+    <g id="FAKE_SECTION:B:A:1" data-name="FAKE SECTION:B:A:1">
+        <g id="FAKEROWB">
+            <rect id="B:999" class="cls-4" x="508.1" y="310.4" width="10" height="10" />
+        </g>
+    </g>
+    <g id="ORCHESTRA:A:C:2">
+        <g id="K">
+            <rect id="K:16" class="cls-5" x="438.2" y="227.6" width="10" height="10" />
+            <rect id="K:14" class="cls-5" x="428.2" y="227.6" width="10" height="10" />
+            <rect id="K:12" class="cls-5" x="418.2" y="227.6" width="10" height="10" />
+            <rect id="K:10" class="cls-5" x="408.2" y="227.6" width="10" height="10" />
+            <rect id="K:8" class="cls-5" x="398.2" y="227.6" width="10" height="10" />
+            <rect id="K:6" class="cls-5" x="388.2" y="227.6" width="10" height="10" />
+            <rect id="K:4" class="cls-5" x="378.2" y="227.6" width="10" height="10" />
+            <rect id="K:2" class="cls-5" x="368.2" y="227.6" width="10" height="10" />
+        </g>
+        <g id="J">
+            <rect id="J:16" class="cls-5" x="438.2" y="217.6" width="10" height="10" />
+            <rect id="J:14" class="cls-5" x="428.2" y="217.6" width="10" height="10" />
+            <rect id="J:12" class="cls-5" x="418.2" y="217.6" width="10" height="10" />
+            <rect id="J:10" class="cls-5" x="408.2" y="217.6" width="10" height="10" />
+            <rect id="J:8" class="cls-5" x="398.2" y="217.6" width="10" height="10" />
+            <rect id="J:6" class="cls-5" x="388.2" y="217.6" width="10" height="10" />
+            <rect id="J:4" class="cls-5" x="378.2" y="217.6" width="10" height="10" />
+            <rect id="J:2" class="cls-5" x="368.2" y="217.6" width="10" height="10" />
+        </g>
+        <g id="H">
+            <rect id="H:16" class="cls-5" x="438.2" y="207.6" width="10" height="10" />
+            <rect id="H:14" class="cls-5" x="428.2" y="207.6" width="10" height="10" />
+            <rect id="H:12" class="cls-5" x="418.2" y="207.6" width="10" height="10" />
+            <rect id="H:10" class="cls-5" x="408.2" y="207.6" width="10" height="10" />
+            <rect id="H:8" class="cls-5" x="398.2" y="207.6" width="10" height="10" />
+            <rect id="H:6" class="cls-5" x="388.2" y="207.6" width="10" height="10" />
+            <rect id="H:4" class="cls-5" x="378.2" y="207.6" width="10" height="10" />
+            <rect id="H:2" class="cls-5" x="368.2" y="207.6" width="10" height="10" />
+        </g>
+        <g id="G">
+            <rect id="G:16" class="cls-5" x="438.2" y="197.6" width="10" height="10" />
+            <rect id="G:14" class="cls-5" x="428.2" y="197.6" width="10" height="10" />
+            <rect id="G:12" class="cls-5" x="418.2" y="197.6" width="10" height="10" />
+            <rect id="G:10" class="cls-5" x="408.2" y="197.6" width="10" height="10" />
+            <rect id="G:8" class="cls-5" x="398.2" y="197.6" width="10" height="10" />
+            <rect id="G:6" class="cls-5" x="388.2" y="197.6" width="10" height="10" />
+            <rect id="G:4" class="cls-5" x="378.2" y="197.6" width="10" height="10" />
+            <rect id="G:2" class="cls-5" x="368.2" y="197.6" width="10" height="10" />
+        </g>
+        <g id="F">
+            <rect id="F:16" class="cls-5" x="438.2" y="187.6" width="10" height="10" />
+            <rect id="F:14" class="cls-5" x="428.2" y="187.6" width="10" height="10" />
+            <rect id="F:12" class="cls-5" x="418.2" y="187.6" width="10" height="10" />
+            <rect id="F:10" class="cls-5" x="408.2" y="187.6" width="10" height="10" />
+            <rect id="F:8" class="cls-5" x="398.2" y="187.6" width="10" height="10" />
+            <rect id="F:6" class="cls-5" x="388.2" y="187.6" width="10" height="10" />
+            <rect id="F:4" class="cls-5" x="378.2" y="187.6" width="10" height="10" />
+            <rect id="F:2" class="cls-5" x="368.2" y="187.6" width="10" height="10" />
+        </g>
+        <g id="E">
+            <rect id="E:14" class="cls-5" x="428.2" y="177.6" width="10" height="10" />
+            <rect id="E:12" class="cls-5" x="418.2" y="177.6" width="10" height="10" />
+            <rect id="E:10" class="cls-5" x="408.2" y="177.6" width="10" height="10" />
+            <rect id="E:8" class="cls-5" x="398.2" y="177.6" width="10" height="10" />
+            <rect id="E:6" class="cls-5" x="388.2" y="177.6" width="10" height="10" />
+            <rect id="E:4" class="cls-5" x="378.2" y="177.6" width="10" height="10" />
+            <rect id="E:2" class="cls-5" x="368.2" y="177.6" width="10" height="10" />
+        </g>
+        <g id="D">
+            <rect id="D:12" class="cls-5" x="418.2" y="167.6" width="10" height="10" />
+            <rect id="D:10" class="cls-5" x="408.2" y="167.6" width="10" height="10" />
+            <rect id="D:8" class="cls-5" x="398.2" y="167.6" width="10" height="10" />
+            <rect id="D:6" class="cls-5" x="388.2" y="167.6" width="10" height="10" />
+            <rect id="D:4" class="cls-5" x="378.2" y="167.6" width="10" height="10" />
+            <rect id="D:2" class="cls-5" x="368.2" y="167.6" width="10" height="10" />
+        </g>
+        <g id="C">
+            <rect id="C:10" class="cls-5" x="408.2" y="157.6" width="10" height="10" />
+            <rect id="C:8" class="cls-5" x="398.2" y="157.6" width="10" height="10" />
+            <rect id="C:6" class="cls-5" x="388.2" y="157.6" width="10" height="10" />
+            <rect id="C:4" class="cls-5" x="378.2" y="157.6" width="10" height="10" />
+            <rect id="C:2" class="cls-5" x="368.2" y="157.6" width="10" height="10" />
+        </g>
+        <g id="B">
+            <rect id="B:8" class="cls-5" x="398.2" y="147.6" width="10" height="10" />
+            <rect id="B:6" class="cls-5" x="388.2" y="147.6" width="10" height="10" />
+            <rect id="B:4" class="cls-5" x="378.2" y="147.6" width="10" height="10" />
+            <rect id="B:2" class="cls-5" x="368.2" y="147.6" width="10" height="10" />
+        </g>
+        <g id="A">
+            <rect id="A:6" class="cls-5" x="388.2" y="137.6" width="10" height="10" />
+            <rect id="A:4" class="cls-5" x="378.2" y="137.6" width="10" height="10" />
+            <rect id="A:2" class="cls-5" x="368.2" y="137.6" width="10" height="10" />
+        </g>
+    </g>
+    <g id="ORCHESTRA:A:B:1">
+        <g id="M">
+            <rect data-area="rearorch1" id="M:108" class="cls-5" x="287" y="247.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="M:107" class="cls-5" x="277" y="247.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="M:106" class="cls-5" x="267" y="247.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="M:105" class="cls-5" x="257" y="247.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="M:104" class="cls-5" x="247" y="247.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="M:103" class="cls-5" x="237" y="247.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="M:102" class="cls-5" x="227" y="247.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="M:101" class="cls-5" x="217" y="247.6" width="10" height="10" />
+        </g>
+        <g id="L">
+            <rect data-area="rearorch1" id="L:110" class="cls-5" x="297" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:109" class="cls-5" x="287" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:108" class="cls-5" x="277" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:107" class="cls-5" x="267" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:106" class="cls-5" x="257" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:105" class="cls-5" x="247" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:104" class="cls-5" x="237" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:103" class="cls-5" x="227" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:102" class="cls-5" x="217" y="237.6" width="10" height="10" />
+            <rect data-area="rearorch1" id="L:101" class="cls-5" x="207" y="237.6" width="10" height="10" />
+        </g>
+        <g id="K-2" data-name="K">
+            <rect id="K:114" class="cls-5" x="317" y="227.6" width="10" height="10" />
+            <rect id="K:113" class="cls-5" x="307" y="227.6" width="10" height="10" />
+            <rect id="K:112" class="cls-5" x="297" y="227.6" width="10" height="10" />
+            <rect id="K:111" class="cls-5" x="287" y="227.6" width="10" height="10" />
+            <rect id="K:110" class="cls-5" x="277" y="227.6" width="10" height="10" />
+            <rect id="K:109" class="cls-5" x="267" y="227.6" width="10" height="10" />
+            <rect id="K:108" class="cls-5" x="257" y="227.6" width="10" height="10" />
+            <rect id="K:107" class="cls-5" x="247" y="227.6" width="10" height="10" />
+            <rect id="K:106" class="cls-5" x="237" y="227.6" width="10" height="10" />
+            <rect id="K:105" class="cls-5" x="227" y="227.6" width="10" height="10" />
+            <rect id="K:104" class="cls-5" x="217" y="227.6" width="10" height="10" />
+            <rect id="K:103" class="cls-5" x="207" y="227.6" width="10" height="10" />
+            <rect id="K:102" class="cls-5" x="197" y="227.6" width="10" height="10" />
+            <rect id="K:101" class="cls-5" x="187" y="227.6" width="10" height="10" />
+        </g>
+        <g id="J-2" data-name="J">
+            <rect id="J:114" class="cls-5" x="317" y="217.6" width="10" height="10" />
+            <rect id="J:113" class="cls-5" x="307" y="217.6" width="10" height="10" />
+            <rect id="J:112" class="cls-5" x="297" y="217.6" width="10" height="10" />
+            <rect id="J:111" class="cls-5" x="287" y="217.6" width="10" height="10" />
+            <rect id="J:110" class="cls-5" x="277" y="217.6" width="10" height="10" />
+            <rect id="J:109" class="cls-5" x="267" y="217.6" width="10" height="10" />
+            <rect id="J:108" class="cls-5" x="257" y="217.6" width="10" height="10" />
+            <rect id="J:107" class="cls-5" x="247" y="217.6" width="10" height="10" />
+            <rect id="J:106" class="cls-5" x="237" y="217.6" width="10" height="10" />
+            <rect id="J:105" class="cls-5" x="227" y="217.6" width="10" height="10" />
+            <rect id="J:104" class="cls-5" x="217" y="217.6" width="10" height="10" />
+            <rect id="J:103" class="cls-5" x="207" y="217.6" width="10" height="10" />
+            <rect id="J:102" class="cls-5" x="197" y="217.6" width="10" height="10" />
+            <rect id="J:101" class="cls-5" x="187" y="217.6" width="10" height="10" />
+        </g>
+        <g id="H-2" data-name="H">
+            <rect id="H:114" class="cls-5" x="317" y="207.6" width="10" height="10" />
+            <rect id="H:113" class="cls-5" x="307" y="207.6" width="10" height="10" />
+            <rect id="H:112" class="cls-5" x="297" y="207.6" width="10" height="10" />
+            <rect id="H:111" class="cls-5" x="287" y="207.6" width="10" height="10" />
+            <rect id="H:110" class="cls-5" x="277" y="207.6" width="10" height="10" />
+            <rect id="H:109" class="cls-5" x="267" y="207.6" width="10" height="10" />
+            <rect id="H:108" class="cls-5" x="257" y="207.6" width="10" height="10" />
+            <rect id="H:107" class="cls-5" x="247" y="207.6" width="10" height="10" />
+            <rect id="H:106" class="cls-5" x="237" y="207.6" width="10" height="10" />
+            <rect id="H:105" class="cls-5" x="227" y="207.6" width="10" height="10" />
+            <rect id="H:104" class="cls-5" x="217" y="207.6" width="10" height="10" />
+            <rect id="H:103" class="cls-5" x="207" y="207.6" width="10" height="10" />
+            <rect id="H:102" class="cls-5" x="197" y="207.6" width="10" height="10" />
+            <rect id="H:101" class="cls-5" x="187" y="207.6" width="10" height="10" />
+        </g>
+        <g id="G-2" data-name="G">
+            <rect id="G:114" class="cls-5" x="317" y="197.6" width="10" height="10" />
+            <rect id="G:113" class="cls-5" x="307" y="197.6" width="10" height="10" />
+            <rect id="G:112" class="cls-5" x="297" y="197.6" width="10" height="10" />
+            <rect id="G:111" class="cls-5" x="287" y="197.6" width="10" height="10" />
+            <rect id="G:110" class="cls-5" x="277" y="197.6" width="10" height="10" />
+            <rect id="G:109" class="cls-5" x="267" y="197.6" width="10" height="10" />
+            <rect id="G:108" class="cls-5" x="257" y="197.6" width="10" height="10" />
+            <rect id="G:107" class="cls-5" x="247" y="197.6" width="10" height="10" />
+            <rect id="G:106" class="cls-5" x="237" y="197.6" width="10" height="10" />
+            <rect id="G:105" class="cls-5" x="227" y="197.6" width="10" height="10" />
+            <rect id="G:104" class="cls-5" x="217" y="197.6" width="10" height="10" />
+            <rect id="G:103" class="cls-5" x="207" y="197.6" width="10" height="10" />
+            <rect id="G:102" class="cls-5" x="197" y="197.6" width="10" height="10" />
+            <rect id="G:101" class="cls-5" x="187" y="197.6" width="10" height="10" />
+        </g>
+        <g id="F-2" data-name="F">
+            <rect id="F:114" class="cls-5" x="317" y="187.6" width="10" height="10" />
+            <rect id="F:113" class="cls-5" x="307" y="187.6" width="10" height="10" />
+            <rect id="F:112" class="cls-5" x="297" y="187.6" width="10" height="10" />
+            <rect id="F:111" class="cls-5" x="287" y="187.6" width="10" height="10" />
+            <rect id="F:110" class="cls-5" x="277" y="187.6" width="10" height="10" />
+            <rect id="F:109" class="cls-5" x="267" y="187.6" width="10" height="10" />
+            <rect id="F:108" class="cls-5" x="257" y="187.6" width="10" height="10" />
+            <rect id="F:107" class="cls-5" x="247" y="187.6" width="10" height="10" />
+            <rect id="F:106" class="cls-5" x="237" y="187.6" width="10" height="10" />
+            <rect id="F:105" class="cls-5" x="227" y="187.6" width="10" height="10" />
+            <rect id="F:104" class="cls-5" x="217" y="187.6" width="10" height="10" />
+            <rect id="F:103" class="cls-5" x="207" y="187.6" width="10" height="10" />
+            <rect id="F:102" class="cls-5" x="197" y="187.6" width="10" height="10" />
+            <rect id="F:101" class="cls-5" x="187" y="187.6" width="10" height="10" />
+        </g>
+        <g id="E-2" data-name="E">
+            <rect id="E:114" class="cls-5" x="317" y="177.6" width="10" height="10" />
+            <rect id="E:113" class="cls-5" x="307" y="177.6" width="10" height="10" />
+            <rect id="E:112" class="cls-5" x="297" y="177.6" width="10" height="10" />
+            <rect id="E:111" class="cls-5" x="287" y="177.6" width="10" height="10" />
+            <rect id="E:110" class="cls-5" x="277" y="177.6" width="10" height="10" />
+            <rect id="E:109" class="cls-5" x="267" y="177.6" width="10" height="10" />
+            <rect id="E:108" class="cls-5" x="257" y="177.6" width="10" height="10" />
+            <rect id="E:107" class="cls-5" x="247" y="177.6" width="10" height="10" />
+            <rect id="E:106" class="cls-5" x="237" y="177.6" width="10" height="10" />
+            <rect id="E:105" class="cls-5" x="227" y="177.6" width="10" height="10" />
+            <rect id="E:104" class="cls-5" x="217" y="177.6" width="10" height="10" />
+            <rect id="E:103" class="cls-5" x="207" y="177.6" width="10" height="10" />
+            <rect id="E:102" class="cls-5" x="197" y="177.6" width="10" height="10" />
+            <rect id="E:101" class="cls-5" x="187" y="177.6" width="10" height="10" />
+        </g>
+        <g id="D-2" data-name="D">
+            <rect id="D:114" class="cls-5" x="317" y="167.6" width="10" height="10" />
+            <rect id="D:113" class="cls-5" x="307" y="167.6" width="10" height="10" />
+            <rect id="D:112" class="cls-5" x="297" y="167.6" width="10" height="10" />
+            <rect id="D:111" class="cls-5" x="287" y="167.6" width="10" height="10" />
+            <rect id="D:110" class="cls-5" x="277" y="167.6" width="10" height="10" />
+            <rect id="D:109" class="cls-5" x="267" y="167.6" width="10" height="10" />
+            <rect id="D:108" class="cls-5" x="257" y="167.6" width="10" height="10" />
+            <rect id="D:107" class="cls-5" x="247" y="167.6" width="10" height="10" />
+            <rect id="D:106" class="cls-5" x="237" y="167.6" width="10" height="10" />
+            <rect id="D:105" class="cls-5" x="227" y="167.6" width="10" height="10" />
+            <rect id="D:104" class="cls-5" x="217" y="167.6" width="10" height="10" />
+            <rect id="D:103" class="cls-5" x="207" y="167.6" width="10" height="10" />
+            <rect id="D:102" class="cls-5" x="197" y="167.6" width="10" height="10" />
+            <rect id="D:101" class="cls-5" x="187" y="167.6" width="10" height="10" />
+        </g>
+        <g id="C-2" data-name="C">
+            <rect id="C:114" class="cls-5" x="317" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:113" class="cls-5" x="307" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:112" class="cls-5" x="297" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:111" class="cls-5" x="287" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:110" class="cls-5" x="277" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:109" class="cls-5" x="267" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:108" class="cls-5" x="257" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:107" class="cls-5" x="247" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:106" class="cls-5" x="237" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:105" class="cls-5" x="227" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:104" class="cls-5" x="217" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:103" class="cls-5" x="207" y="157.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="C:102" class="cls-5" x="197" y="157.6" width="10" height="10" />
+            <rect id="C:101" class="cls-5" x="187" y="157.6" width="10" height="10" />
+        </g>
+        <g id="B-2" data-name="B">
+            <rect data-area="orchestra3" id="B:114" class="cls-5" x="317" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:113" class="cls-5" x="307" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:112" class="cls-5" x="297" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:111" class="cls-5" x="287" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:110" class="cls-5" x="277" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:109" class="cls-5" x="267" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:108" class="cls-5" x="257" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:107" class="cls-5" x="247" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:106" class="cls-5" x="237" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:105" class="cls-5" x="227" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:104" class="cls-5" x="217" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:103" class="cls-5" x="207" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:102" class="cls-5" x="197" y="147.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="B:101" class="cls-5" x="187" y="147.6" width="10" height="10" />
+        </g>
+        <g id="A-2" data-name="A">
+            <rect data-area="orchestra3" id="A:114" class="cls-5" x="317" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:113" class="cls-5" x="307" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:112" class="cls-5" x="297" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:111" class="cls-5" x="287" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:110" class="cls-5" x="277" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:109" class="cls-5" x="267" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:108" class="cls-5" x="257" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:107" class="cls-5" x="247" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:106" class="cls-5" x="237" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:105" class="cls-5" x="227" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:104" class="cls-5" x="217" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:103" class="cls-5" x="207" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra2" id="A:102" class="cls-5" x="197" y="137.6" width="10" height="10" />
+            <rect data-area="orchestra3" id="A:101" class="cls-5" x="187" y="137.6" width="10" height="10" />
+        </g>
+        <g id="AA">
+            <rect data-area="premium1,orchestra1" id="AA:112" class="cls-5" x="307" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:111" class="cls-5" x="297" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:110" class="cls-5" x="287" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:109" class="cls-5" x="277" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:108" class="cls-5" x="267" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:107" class="cls-5" x="257" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:106" class="cls-5" x="247" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:105" class="cls-5" x="237" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:104" class="cls-5" x="227" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:103" class="cls-5" x="217" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:102" class="cls-5" x="207" y="116.6" width="10" height="10" />
+            <rect data-area="premium1,orchestra1" id="AA:101" class="cls-5" x="197" y="116.6" width="10" height="10" />
+        </g>
+    </g>
+    <g id="ORCHESTRA:A:A:2">
+        <g id="K-3" data-name="K">
+            <rect id="K:15" class="cls-5" x="67.8" y="227.6" width="10" height="10" />
+            <rect id="K:13" class="cls-5" x="77.8" y="227.6" width="10" height="10" />
+            <rect id="K:11" class="cls-5" x="87.8" y="227.6" width="10" height="10" />
+            <rect id="K:9" class="cls-5" x="97.8" y="227.6" width="10" height="10" />
+            <rect id="K:7" class="cls-5" x="107.8" y="227.6" width="10" height="10" />
+            <rect id="K:5" class="cls-5" x="117.8" y="227.6" width="10" height="10" />
+            <rect id="K:3" class="cls-5" x="127.8" y="227.6" width="10" height="10" />
+            <rect id="K:1" class="cls-5" x="137.8" y="227.6" width="10" height="10" />
+        </g>
+        <g id="J-3" data-name="J">
+            <rect id="J:15" class="cls-5" x="67.8" y="217.6" width="10" height="10" />
+            <rect id="J:13" class="cls-5" x="77.8" y="217.6" width="10" height="10" />
+            <rect id="J:11" class="cls-5" x="87.8" y="217.6" width="10" height="10" />
+            <rect id="J:9" class="cls-5" x="97.8" y="217.6" width="10" height="10" />
+            <rect id="J:7" class="cls-5" x="107.8" y="217.6" width="10" height="10" />
+            <rect id="J:5" class="cls-5" x="117.8" y="217.6" width="10" height="10" />
+            <rect id="J:3" class="cls-5" x="127.8" y="217.6" width="10" height="10" />
+            <rect id="J:1" class="cls-5" x="137.8" y="217.6" width="10" height="10" />
+        </g>
+        <g id="H-3" data-name="H">
+            <rect id="H:15" class="cls-5" x="67.8" y="207.6" width="10" height="10" />
+            <rect id="H:13" class="cls-5" x="77.8" y="207.6" width="10" height="10" />
+            <rect id="H:11" class="cls-5" x="87.8" y="207.6" width="10" height="10" />
+            <rect id="H:9" class="cls-5" x="97.8" y="207.6" width="10" height="10" />
+            <rect id="H:7" class="cls-5" x="107.8" y="207.6" width="10" height="10" />
+            <rect id="H:5" class="cls-5" x="117.8" y="207.6" width="10" height="10" />
+            <rect id="H:3" class="cls-5" x="127.8" y="207.6" width="10" height="10" />
+            <rect id="H:1" class="cls-5" x="137.8" y="207.6" width="10" height="10" />
+        </g>
+        <g id="G-3" data-name="G">
+            <rect id="G:15" class="cls-5" x="67.8" y="197.6" width="10" height="10" />
+            <rect id="G:13" class="cls-5" x="77.8" y="197.6" width="10" height="10" />
+            <rect id="G:11" class="cls-5" x="87.8" y="197.6" width="10" height="10" />
+            <rect id="G:9" class="cls-5" x="97.8" y="197.6" width="10" height="10" />
+            <rect id="G:7" class="cls-5" x="107.8" y="197.6" width="10" height="10" />
+            <rect id="G:5" class="cls-5" x="117.8" y="197.6" width="10" height="10" />
+            <rect id="G:3" class="cls-5" x="127.8" y="197.6" width="10" height="10" />
+            <rect id="G:1" class="cls-5" x="137.8" y="197.6" width="10" height="10" />
+        </g>
+        <g id="F-3" data-name="F">
+            <rect id="F:15" class="cls-5" x="67.8" y="187.6" width="10" height="10" />
+            <rect id="F:13" class="cls-5" x="77.8" y="187.6" width="10" height="10" />
+            <rect id="F:11" class="cls-5" x="87.8" y="187.6" width="10" height="10" />
+            <rect id="F:9" class="cls-5" x="97.8" y="187.6" width="10" height="10" />
+            <rect id="F:7" class="cls-5" x="107.8" y="187.6" width="10" height="10" />
+            <rect id="F:5" class="cls-5" x="117.8" y="187.6" width="10" height="10" />
+            <rect id="F:3" class="cls-5" x="127.8" y="187.6" width="10" height="10" />
+            <rect id="F:1" class="cls-5" x="137.8" y="187.6" width="10" height="10" />
+        </g>
+        <g id="E-3" data-name="E">
+            <rect id="E:13" class="cls-5" x="77.8" y="177.6" width="10" height="10" />
+            <rect id="E:11" class="cls-5" x="87.8" y="177.6" width="10" height="10" />
+            <rect id="E:9" class="cls-5" x="97.8" y="177.6" width="10" height="10" />
+            <rect id="E:7" class="cls-5" x="107.8" y="177.6" width="10" height="10" />
+            <rect id="E:5" class="cls-5" x="117.8" y="177.6" width="10" height="10" />
+            <rect id="E:3" class="cls-5" x="127.8" y="177.6" width="10" height="10" />
+            <rect id="E:1" class="cls-5" x="137.8" y="177.6" width="10" height="10" />
+        </g>
+        <g id="D-3" data-name="D">
+            <rect id="D:11" class="cls-5" x="87.8" y="167.6" width="10" height="10" />
+            <rect id="D:9" class="cls-5" x="97.8" y="167.6" width="10" height="10" />
+            <rect id="D:7" class="cls-5" x="107.8" y="167.6" width="10" height="10" />
+            <rect id="D:5" class="cls-5" x="117.8" y="167.6" width="10" height="10" />
+            <rect id="D:3" class="cls-5" x="127.8" y="167.6" width="10" height="10" />
+            <rect id="D:1" class="cls-5" x="137.8" y="167.6" width="10" height="10" />
+        </g>
+        <g id="C-3" data-name="C">
+            <rect id="C:9" class="cls-5" x="97.8" y="157.6" width="10" height="10" />
+            <rect id="C:7" class="cls-5" x="107.8" y="157.6" width="10" height="10" />
+            <rect id="C:5" class="cls-5" x="117.8" y="157.6" width="10" height="10" />
+            <rect id="C:3" class="cls-5" x="127.8" y="157.6" width="10" height="10" />
+            <rect id="C:1" class="cls-5" x="137.8" y="157.6" width="10" height="10" />
+        </g>
+        <g id="B-3" data-name="B">
+            <rect id="B:7" class="cls-5" x="107.8" y="147.6" width="10" height="10" />
+            <rect id="B:5" class="cls-5" x="117.8" y="147.6" width="10" height="10" />
+            <rect id="B:3" class="cls-5" x="127.8" y="147.6" width="10" height="10" />
+            <rect id="B:1" class="cls-5" x="137.8" y="147.6" width="10" height="10" />
+        </g>
+        <g id="A-3" data-name="A">
+            <rect id="A:5" class="cls-5" x="117.8" y="137.6" width="10" height="10" />
+            <rect id="A:3" class="cls-5" x="127.8" y="137.6" width="10" height="10" />
+            <rect id="A:1" class="cls-5" x="137.8" y="137.6" width="10" height="10" />
+        </g>
+    </g>
+</svg>
